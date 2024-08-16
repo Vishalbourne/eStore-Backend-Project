@@ -23,3 +23,15 @@ This is a feature-rich e-commerce web application built using modern web technol
 - **[Express](https://expressjs.com/)**: Web framework for building the application.
 - **[Connect Flash](https://www.npmjs.com/package/connect-flash)**: Middleware for flashing messages to the user (e.g., login errors).
 
+## Demo
+
+![Screenshot 2024-08-16 221448](https://github.com/user-attachments/assets/24637a75-ab15-4fa6-b75d-2dea0d5f8c57)
+
+
+![Screenshot 2024-08-16 222451](https://github.com/user-attachments/assets/dba38cf5-269a-4f66-acad-4d33a503786b)
+
+
+![Screenshot 2024-08-16 222959](https://github.com/user-attachments/assets/d072d267-4f70-497a-8717-9893822c1958)
+
+
+
